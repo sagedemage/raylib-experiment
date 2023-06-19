@@ -1,4 +1,4 @@
-# Download libraries Manually (Ubuntu 22.04.2 LTS)
+# Install Raylib Manually on Linux
 
 ## Download dependencies
 ### Go to these links
